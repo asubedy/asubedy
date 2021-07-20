@@ -28,7 +28,8 @@ My name is Aaditya Narayan Subedy, currently studying in 2nd year of Computer En
    <a href="https://www.linkedin.com/in/asubedy/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />     
 </p>
-  
+
+![](https://komarev.com/ghpvc/?username=asubedy)
 
 <!--
 **asubedy/asubedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
