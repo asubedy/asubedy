@@ -13,7 +13,7 @@ My name is Aaditya Narayan Subedy, currently studying in 2nd year of Computer En
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />  
-  <img alt="Jekyll" src"https://img.shields.io/badge/Jekyll-333333?logo=jekyll&logoColor=white&style=for-the-badge" />
+  <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-333333?logo=jekyll&logoColor=white&style=for-the-badge" />
 </p>
 
 ### I am currently learning
