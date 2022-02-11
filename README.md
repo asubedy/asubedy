@@ -26,7 +26,7 @@ My name is Aaditya Narayan Subedy, currently studying in 2nd year of Computer En
 ### Send me a message!
 - I am always looking forward to contributing in new stuff, so that it can expand my horizion and knowledge about various technologies, so if you find my works interesting feel free to message me! These are my social-handles.
 <p>
-    <a href = "https://twitter.com/frexpe12 ">
+    <a href = "https://twitter.com/a_subedy ">
      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
    <a href="https://www.linkedin.com/in/asubedy/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />     
