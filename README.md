@@ -1,6 +1,6 @@
 ### Hi there Welcome to my GitHub Page
 
-My name is Aaditya Narayan Subedy, currently studying in 3rd year of Computer Engineering Course in Delhi Technological University, Delhi.
+My name is Aaditya Narayan Subedy, currently in my final year of studying Computer Engineering Course in Delhi Technological University, Delhi.
 
 ---
 
